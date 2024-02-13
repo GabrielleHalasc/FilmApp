@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FilmApp</string>
+    <string name="popularity">Popularity</string>
+    <string name="release_date">Release date</string>
+    <string name="description">Description\n</string>
+    <string name="film_detail">Film Detail</string>
+</resources>
